@@ -34,9 +34,9 @@ and directions from my Instructor
 
 Sites used for troubleshooting
 
-![Inquirer](https://www.npmjs.com/package/inquirer)
-![Jest](https://www.npmjs.com/package/jest)
-![NPM ERR Missing Script ](https://www.partitionwizard.com/partitionmanager/npm-err-missing-script-start.html)
+Inquirer (https://www.npmjs.com/package/inquirer)
+Jest (https://www.npmjs.com/package/jest)
+NPM ERR Missing Script (https://www.partitionwizard.com/partitionmanager/npm-err-missing-script-start.html)
 
 ## Badges
 
