@@ -18,7 +18,7 @@ once you insert all your information an HTML file will be generated with corresp
 
 
 
-![Screenshot](assets/images/screenshot.png)
+![Screenshot](https://github.com/JCLOS305/Team-Profile-Generator/blob/main/assets/images/screenshot.PNG?raw=true)
 
 
 ## Credits
